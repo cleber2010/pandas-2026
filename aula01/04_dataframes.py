@@ -23,4 +23,8 @@ df.iloc[0]['Nomes']
 df.loc[0]
 # %%
 df.iloc[-1]['Idades']
+
 # %%
+#pra que serve o iloc e o loc
+#iloc é usado para acessar linhas e colunas por posição (índice inteiro)
+#loc é usado para acessar linhas e colunas por rótulo (nome)
